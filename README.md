@@ -1,9 +1,11 @@
 
 # libfuzzerfication
 
+<img src="https://raw.githubusercontent.com/ouspg/libfuzzerfication/master/pictures/fuzzing.png" width="500" height="284" alt="Fuzzing in action">
 
-=======
 # Synopsis
+Fuzz-testing is software design technique that involves providing random data to the inputs of a computer program. The program
+
 Purpose is to make it easy to find vulnerabilities from commonly used libraries. We have list of top 50 most used libraries from Protecode SC.
 
 Currently our top targets are:
@@ -52,6 +54,7 @@ There have been lots of vulnerabilities in popular libraries that should have be
 * Fast!
 
 # Contributors
-* Mikko Yliniemi (mikessu)
-* Atte Kettunen (attekett)
+* Mikko Yliniemi (@mikessu)
+* Atte Kettunen (@attekett)
+* Pauli Huttunen (@WhiteEyeDoll)
 * ... you?
