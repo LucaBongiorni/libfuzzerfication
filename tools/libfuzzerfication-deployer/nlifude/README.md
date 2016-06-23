@@ -1,1 +1,1 @@
-A ncurses ui for libfuzzerfication-deployer.
+Ncurses interface for lifude-modules.
