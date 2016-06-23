@@ -1,1 +1,1 @@
-A ncurses ui for libfuzzerfication-deployer.
+A ncurses ui for lifude-gcloud.
